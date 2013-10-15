@@ -20,3 +20,6 @@ How To Use
 You can use VIM or what ever to open the file, and change the path variable to fit your own needs.
 
 Better fit Mac OS and Linux(Unix)
+
+
+Respect MIT-Lisence
